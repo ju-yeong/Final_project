@@ -134,7 +134,7 @@ plt.plot(history1.history["val_loss"])
 plt.legend(["acc","val_acc","loss","val_loss"], loc = "best")
 
 
-# ### 이진분류 1 : bad+dried vs good
+# ### 이진분류 2 : bad vs dried
 
 # In[3]:
 
